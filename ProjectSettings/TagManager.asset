@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - GM
+  - Projectile
+  - UI
+  - Grenader
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Tilemap Stuff
+  - Background
+  - Enemy
+  - Hazard
+  - NPC
+  - Interactables
+  - StressZone
+  - DialogueTrigger
+  - Mummy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2185760391
+    locked: 0
+  - name: Midground
+    uniqueID: 3570029489
+    locked: 0
+  - name: Enemy
+    uniqueID: 1085915281
+    locked: 0
+  - name: Hazard
+    uniqueID: 2374278443
+    locked: 0
+  - name: NPC
+    uniqueID: 3907158473
+    locked: 0
+  - name: UI
+    uniqueID: 1295020549
+    locked: 0
+  - name: Item
+    uniqueID: 2863971137
+    locked: 0
+  - name: Player
+    uniqueID: 514994143
+    locked: 0
+  - name: Foreground
+    uniqueID: 3924987847
+    locked: 0
